@@ -1,6 +1,6 @@
 # ChangeLog
 
-**Version 1.6.5 – September 18, 2026**
+**Version 1.6.6 – September 18, 2026**
 - Updated: WooCommerce template files.
 
 **Version 1.6.5 – August 10, 2026**
